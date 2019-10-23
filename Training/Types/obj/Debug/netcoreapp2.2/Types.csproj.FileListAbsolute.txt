@@ -1,0 +1,11 @@
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\bin\Debug\netcoreapp2.2\Types.deps.json
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\bin\Debug\netcoreapp2.2\Types.runtimeconfig.json
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\bin\Debug\netcoreapp2.2\Types.runtimeconfig.dev.json
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\bin\Debug\netcoreapp2.2\Types.dll
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\bin\Debug\netcoreapp2.2\Types.pdb
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\obj\Debug\netcoreapp2.2\Types.csprojAssemblyReference.cache
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\obj\Debug\netcoreapp2.2\Types.csproj.CoreCompileInputs.cache
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\obj\Debug\netcoreapp2.2\Types.AssemblyInfoInputs.cache
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\obj\Debug\netcoreapp2.2\Types.AssemblyInfo.cs
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\obj\Debug\netcoreapp2.2\Types.dll
+C:\Users\swesley\Source\Repos\sskrzyniarz\Training-\Training\Types\obj\Debug\netcoreapp2.2\Types.pdb
