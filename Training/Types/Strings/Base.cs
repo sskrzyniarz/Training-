@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Types.Strings.Models;
 
 namespace Types.Strings
 {
@@ -8,9 +9,9 @@ namespace Types.Strings
     {
         public static void Run()
         {
-            Console.WriteLine("Hello World!");
+            var text = new Greeting() { Value = "Hello" };
 
-            Console.ReadKey();
+            HelloWorld.SayHello(text);
         }
     }
 }
